@@ -1,4 +1,4 @@
-# Personalized Health & Wellness Recommendation System
+# Health-Recommendation-System-Fitbit-Data
 
 This project builds a personalized health and wellness recommendation system using real-world Fitbit data. By analyzing user activity, sleep patterns, and heart rate, the system generates meaningful insights and applies recommendation techniques to predict user behavior.
 
