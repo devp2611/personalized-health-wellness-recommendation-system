@@ -1,6 +1,8 @@
 # Personalized Health & Wellness Recommendation System
 
-A portfolio-ready data mining project that builds a personalized health and wellness recommendation system using Fitbit-based behavioral data such as daily activity, sleep, and heart rate.
+This project builds a personalized health and wellness recommendation system using real-world Fitbit data. By analyzing user activity, sleep patterns, and heart rate, the system generates meaningful insights and applies recommendation techniques to predict user behavior.
+
+The project demonstrates end-to-end data science workflow including data preprocessing, exploratory analysis, and recommendation modeling using implicit feedback.
 
 ## Project Overview
 
@@ -51,11 +53,17 @@ Model performance was evaluated using:
 - F1@5
 - NDCG@5
 
-## Key Findings
+## Key Results
 
-- The popularity-based recommendation model performed best on this dataset.
-- User behavior patterns in the dataset were relatively homogeneous.
-- Implicit behavioral data can support recommendation tasks, but careful interpretation is important.
+### Daily Steps Distribution
+![Steps Distribution](images/eda_steps_distribution.png)
+
+### Feature Correlation Heatmap
+![Correlation Heatmap](images/feature_correlation_heatmap.png)
+
+### Model Performance Comparison
+![Model Performance](images/model_performance_comparison.png)
+
 
 ## Repository Structure
 
@@ -75,3 +83,16 @@ personalized-health-wellness-recommendation-system/
 │   └── project result images
 │
 └── README.md
+```
+
+## Key Findings
+
+- The popularity-based recommendation model performed best on this dataset.
+- User behavior patterns in the dataset were relatively homogeneous.
+- Implicit behavioral data can support recommendation tasks, but careful interpretation is important.
+
+## Key Results Summary
+
+- Popularity-based model achieved best performance
+- Dataset showed homogeneous user behavior patterns
+- Implicit feedback data can be effectively used for recommendation systems
