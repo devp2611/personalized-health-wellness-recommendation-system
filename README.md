@@ -53,6 +53,14 @@ Model performance was evaluated using:
 - F1@5
 - NDCG@5
 
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
 ## Key Results
 
 ### Daily Steps Distribution
