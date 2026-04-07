@@ -63,13 +63,13 @@ Model performance was evaluated using:
 personalized-health-wellness-recommendation-system/
 │
 ├── notebooks/
-│   └── PROJ-1-DME.ipynb
+│   └── project.ipynb
 │
 ├── data/
-│   └── final_merge.csv
+│   └── final_merged.csv
 │
 ├── reports/
-│   └── FINAL_REPORT.pdf
+│   └── final_report.pdf
 │
 ├── images/
 │   └── project result images
