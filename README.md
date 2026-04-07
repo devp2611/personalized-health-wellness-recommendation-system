@@ -18,6 +18,13 @@ The project includes:
 
 Traditional recommender systems usually depend on explicit ratings. In contrast, wearable device data provides implicit signals such as recorded activity, sleep duration, and heart rate patterns. This project explores how those behavioral signals can be used to build a meaningful health and wellness recommendation system.
 
+## Project Highlights
+
+- End-to-end data science pipeline
+- Real-world Fitbit dataset analysis
+- Recommendation system using implicit feedback
+- Insight-driven health analytics
+
 ## Dataset Used
 
 The project is based on Fitbit-derived data sources related to:
